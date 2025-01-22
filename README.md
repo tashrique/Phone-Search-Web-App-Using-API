@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-Explore the app here: [Phone Hunter](https://tashrique.github.io/Phone-Search-Web-App-Using-API/)
+Explore the app here: [Phone Hunter](https://phone-hunter-usig-api-tashrique.netlify.app/)
 
 ## Features
 
